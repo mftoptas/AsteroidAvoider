@@ -170,6 +170,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   forceMagnitude: 50
   maxVelocity: 6
+  rotationSpeed: 5
 --- !u!54 &297599691
 Rigidbody:
   m_ObjectHideFlags: 0
